@@ -1,6 +1,10 @@
-# rotten-potatoes
+# Desafio-KubeDev - Q4
+Criado um .yaml para rodar com o docker-compose. 
+Foi criado um Dockerfile no diretorio "/src" para buildar a aplicação rotten-potatoes
 
-## Configuração
+## rotten-potatoes
+
+### Configuração
 
 MONGODB_DB => Nome do database
 
