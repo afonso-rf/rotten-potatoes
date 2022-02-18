@@ -19,11 +19,11 @@ MONGO_PASSWORD => Senha para o MongoDB
 
 ### Configuração
 
-MONGODB_DB => Nome do database (Não utilizado no docker-compose.yaml. Deixado a default da api [admin])
+MONGODB_DB => Nome do database (Não utilizado no docker-compose.yaml. Deixado a default[admin] da api)
 
 MONGODB_HOST => Host do MongoDB
 
-MONGODB_PORT => Posta de acesso ao MongoDB (Não utilizado no docker-compose.yaml. Deixado a default da api [27017])
+MONGODB_PORT => Posta de acesso ao MongoDB (Não utilizado no docker-compose.yaml. Deixado a default[27017] da api)
 
 MONGODB_USERNAME => Usuário do MongoDB
 
