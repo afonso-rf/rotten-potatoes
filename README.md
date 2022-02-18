@@ -1,4 +1,4 @@
-# Desafio-KubeDev - Q4
+# Desafio-KubeDev - Docker: Q4
 Criado um .yaml para rodar com o docker-compose. 
 
 Foi criado um Dockerfile no diretorio "/src" para buildar a aplicação rotten-potatoes
